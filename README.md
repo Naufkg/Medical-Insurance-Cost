@@ -14,8 +14,11 @@ How can we predict medical costs for patients based on demographic factors, life
 https://docs.google.com/spreadsheets/d/1ac28k9wcw4h5PeQcR751tL_FlJ-gWWU3WFlZlWWP
 CRY/edit?usp=sharing
 ●	Age: The age of the patient in years.
+
 ●	Sex: The gender of the patient, either 'M' (male) or 'F' (female).
+
 ●	BMI (Body Mass Index): A numerical value representing the body mass index of the patient, which is calculated using their weight and height.
+
 ●	Children: The number of children the patient has.
 ●	Smoker: Indicates whether the patient is a smoker or not, with values 'Yes' or 'No'.
 ●	Region: The geographic region where the patient resides, with values such as 'North',
