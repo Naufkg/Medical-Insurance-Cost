@@ -12,6 +12,7 @@ How can we predict medical costs for patients based on demographic factors, life
 6.	Interpret the results and provide actionable insights for Hospital ABC to optimize resource allocation, healthcare planning, and patient support services.
 # Dataset link:
 [Click Here](http://localhost:8888/lab/tree/Downloads/Medical%20Insurance%20Cost.ipynb)
+
 ●	Age: The age of the patient in years.
 
 ●	Sex: The gender of the patient, either 'M' (male) or 'F' (female).
