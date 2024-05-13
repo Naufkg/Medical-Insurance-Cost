@@ -11,8 +11,7 @@ How can we predict medical costs for patients based on demographic factors, life
 5.	Evaluate the performance of the predictive model using appropriate metrics such as mean absolute error or root mean squared error.
 6.	Interpret the results and provide actionable insights for Hospital ABC to optimize resource allocation, healthcare planning, and patient support services.
 # Dataset link:
-[Click Here](https://drive.google.com/file/d/1o2WCnvPWcWrPWbWgmLijhX5RXIcAQY53/view?usp=drive_link)
-
+[Click Here](http://localhost:8888/lab/tree/Downloads/Medical%20Insurance%20Cost.ipynb)
 ●	Age: The age of the patient in years.
 
 ●	Sex: The gender of the patient, either 'M' (male) or 'F' (female).
